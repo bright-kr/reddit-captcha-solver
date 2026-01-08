@@ -1,6 +1,6 @@
 # Reddit CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/products/web-unlocker/captcha-solver/reddit)
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/products/web-unlocker/captcha-solver/reddit)
 
 Bright Data의 고급 CAPTCHA 해결 기술로 Reddit CAPTCHA를 손쉽게 우회합니다. 머신러닝 알고리즘, [자동 IP 로ーテーティングプロキシ](https://brightdata.co.kr/solutions/rotating-proxies), 그리고 견고한 プロキシ 인프라를 활용하여 대상 사이트에 대한 원활하고 일관된 액세스를 보장합니다.  
 
@@ -129,7 +129,7 @@ Bright Data의 CAPTCHA Solver는 다음을 포함한 광범위한 CAPTCHA 유형
 
 ## Advanced Customization  
 
-[Bright Data의 CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)는 특정 시나리오에 맞게 해결 로직을 미세 조정할 수 있도록 고급 커스터마이징을 지원합니다.
+[Bright Data의 CAPTCHA Solver](https://github.com/bright-kr/Captcha-solver)는 특정 시나리오에 맞게 해결 로직을 미세 조정할 수 있도록 고급 커스터마이징을 지원합니다.
 
 ## **Event Monitoring**  
 고급 사용 사례를 처리하기 위해 CAPTCHA 해결 이벤트를 추적합니다:  
